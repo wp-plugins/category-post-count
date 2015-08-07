@@ -1,0 +1,61 @@
+# Copyright (C) 2015 Category Post Count
+# This file is distributed under the same license as the Category Post Count package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Category Post Count 0.1\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/category-post-count\n"
+"POT-Creation-Date: 2015-08-06 21:53+0300\n"
+"PO-Revision-Date: 2015-08-06 21:54+0300\n"
+"Last-Translator: Emre Erkan <kara@karalamalar.net>\n"
+"Language-Team: Emre Erkan <kara@karalamalar.net>\n"
+"Language: tr_TR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.4\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+
+#: category-post-count.php:70 category-post-count.php:87
+msgid "Post count"
+msgstr "Yazı sayısı"
+
+#: category-post-count.php:72 category-post-count.php:90
+msgid "Post count for this category to display"
+msgstr "Bu kategoride görüntülenecek yazı sayısı"
+
+#: category-post-count.php:75 category-post-count.php:94
+msgid "Feed count"
+msgstr "Besleme sayısı"
+
+#: category-post-count.php:77 category-post-count.php:97
+msgid "Post count for this category to display in RSS feed"
+msgstr "Bu kategoride görüntülenecek RSS besleme sayısı"
+
+#: category-post-count.php:118
+msgid "Post/Feed Count"
+msgstr "Yazı/Besleme Sayısı"
+
+#. Plugin Name of the plugin/theme
+msgid "Category Post Count"
+msgstr "Kategori Yazı Sayısı"
+
+#. Plugin URI of the plugin/theme
+msgid "http://wordpress.org/plugins/category-post-count/"
+msgstr "http://wordpress.org/plugins/category-post-count/"
+
+#. Description of the plugin/theme
+msgid ""
+"With this plugin you can set the posts_per_page and posts_per_rss settings for "
+"individual categories."
+msgstr ""
+"Bu eklenti ile her bir kategori için farklı posts_per_page ve posts_per_rss "
+"ayarları belirleyebilirsiniz."
+
+#. Author of the plugin/theme
+msgid "Emre Erkan"
+msgstr "Emre Erkan"
+
+#. Author URI of the plugin/theme
+msgid "http://www.karalamalar.net/category-post-count/"
+msgstr "http://www.karalamalar.net/category-post-count/"
